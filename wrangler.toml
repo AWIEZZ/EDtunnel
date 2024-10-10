@@ -1,4 +1,4 @@
-name = "xl-vidio-hafiz" # todo
+name = "ID-server" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -15,4 +15,4 @@ routes = [
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "61212b1a-a8f9-4311-b645-defb935d4c42"
+UUID = "34a082f5-3c84-4c90-9186-b60bf7fe97d4"
